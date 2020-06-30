@@ -1,0 +1,5 @@
+package com.github.ixm.model.entity;
+
+public class Cliente {
+
+}
